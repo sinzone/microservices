@@ -65,7 +65,7 @@ It handles other requests by fanning out to multiple services.
 <img class="img-responsive" src="/i/apigateway.jpg"></img>
 
 
-Rather than provide a one-size-fits-all style API, the API gateway can expose a different API for each client. For example, the [Netflix API](http://techblog.netflix.com/2012/07/embracing-differences-inside-netflix.html) gateway runs client-specifc adapter code that provides each client with an API that's best suited to it's requirements.
+Rather than provide a one-size-fits-all style API, the API gateway can expose a different API for each client. For example, the [Netflix API](http://techblog.netflix.com/2012/07/embracing-differences-inside-netflix.html) gateway runs client-specific adapter code that provides each client with an API that's best suited to it's requirements.
 
 The API gateway might also implement security, e.g. verify that the client is authorized to perform the request
 
