@@ -18,5 +18,4 @@ Want to see an example? Check out [Chris Richardson's example code](microservice
 ### Got questions? Need training?
 
 We do consulting and training workshops.
-<p>I'll be in <b>London</b> in October!</p>
 Please [contact me](http://www.chrisrichardson.net/microserviceslanding.html).

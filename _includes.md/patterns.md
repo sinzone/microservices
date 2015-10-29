@@ -12,11 +12,11 @@
 * [Single service instance per host](/patterns/deployment/single-service-per-host.html)
 * [Service instance per VM](/patterns/deployment/service-per-vm.html)
 * [Service instance per Container](/patterns/deployment/service-per-container.html)
+* [Database per Service](/patterns/data/database-per-service.html)
 
 Join the [microservices google group](https://groups.google.com/forum/#!forum/microservices)
 
 <div class="bg-info well well-lg" style="width:80%;">
   <h3>Got a question? Need training?</h3>
-  <p>I'll be in <b>London</b> in October!</p>
   <a class="btn btn-primary" href="http://www.chrisrichardson.net/microserviceslanding.html">Contact me</a>
 </div>
