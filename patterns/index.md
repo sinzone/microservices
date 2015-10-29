@@ -8,8 +8,6 @@ The beginnings of a [pattern language](http://en.wikipedia.org/wiki/Pattern_lang
 
 <map name="GraffleExport">
 	<area shape=rect coords="89,174,214,210" href="data/database-per-service.html">
-	<area shape=rect coords="215,531,340,567" href="microservices.html">
-	<area shape=rect coords="52,531,177,567" href="monolithic.html">
 	<area shape=rect coords="457,86,582,122" href="deployment/service-per-vm.html">
 	<area shape=rect coords="312,29,437,65" href="deployment/service-per-container.html">
 	<area shape=rect coords="446,200,571,236" href="deployment/single-service-per-host.html">
