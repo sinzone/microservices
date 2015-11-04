@@ -109,9 +109,27 @@ Each utility does exactly one thing, often exceptionally well, and can be combin
 
 ## Related patterns
 
+There are many patterns related to the microservices pattern.
+
+<map name="PatternsRelatedToMicroservicesMap">
+	<area shape=rect coords="151,206,236,242" href="data/database-per-service.html">
+	<area shape=rect coords="446,200,571,236" href="deployment/single-service-per-host.html">
+	<area shape=rect coords="266,144,391,180" href="deployment/multiple-services-per-host.html">
+	<area shape=rect coords="554,442,679,478" href="server-side-discovery.html">
+	<area shape=rect coords="383,442,508,478" href="client-side-discovery.html">
+	<area shape=rect coords="24,387,149,423" href="apigateway.html">
+	<area shape=rect coords="282,274,407,310" href="microservices.html">
+	<area shape=rect coords="52,293,177,329" href="monolithic.html">
+</map>
+
+<img border=0 class="img-responsive" src="../i/PatternsRelatedToMicroservices.jpg" usemap="#PatternsRelatedToMicroservicesMap">
+
 * The [Monolithic architecture](monolithic.html) is an alternative to the microservices architecture.
 * The [API Gateway pattern](apigateway.html) defines how clients access the services in a microservices architecture.
 * The [Client-side Discovery](client-side-discovery.html) and [Server-side Discovery](server-side-discovery.html) patterns are used to route requests for a client to an available service instance in a microservices architecture.
+* The Messaging and Remote Procedure Invocation patterns are two different ways that services can communicate.
+* The [Single Service per Host](deployment/single-service-per-host.html) and [Multiple Services per Host](deployment/multiple-services-per-host.html) patterns are two different deployment strategies.
+* The [Database per Service pattern](data/database-per-service.html) describes how each service has its own database.
 
 ## Known uses
 
