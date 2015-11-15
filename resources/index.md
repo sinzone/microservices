@@ -9,6 +9,11 @@ title: Microservices resources
 
 * Various [meetups](http://www.meetup.com/find/?allMeetups=false&keywords=microservices) that talk about microservices
 
+# Books
+
+* [Microservices in .NET](https://www.manning.com/books/microservices-in-net) by Christian Horsdal
+* [Building Microservices](http://shop.oreilly.com/product/0636920033158.do) by Sam Newman
+
 # Articles
 
 Chris Richardson
